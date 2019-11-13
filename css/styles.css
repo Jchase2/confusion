@@ -65,4 +65,16 @@ body {
   z-index: 1;
 }
 
+.modalClass {
+  background: #D1C4E9;
+  color: #000;
+}
+.modalClass.header {
+  background: #512DA8;
+  color: floralwhite;
+}
+.modalClass.close {
+  color: floralwhite;
+}
+
 /*# sourceMappingURL=styles.css.map */
